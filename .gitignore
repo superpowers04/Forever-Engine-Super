@@ -1,0 +1,4 @@
+export/
+.vscode/
+mods/
+docs/_build
