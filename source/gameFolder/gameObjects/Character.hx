@@ -317,7 +317,6 @@ class Character extends FNFSprite
 		setCharacter(character);
 	}
 	public static function validChar(char:String,?charId:Int = 0):String{
-		trace('${"char" + charId)}:${char} - ${Init.getChar(charId)} - ${TitleState.choosableCharactersLower[Init.getChar(charId)]}');
 		var chartCharValid:Bool = (TitleState.choosableCharactersLower[char.toLowerCase()] != null);
 		var selCharValid:Bool = TitleState.choosableCharactersLower[Init.getChar(charId).toLowerCase()] != null;
 		var forcedselChar:Bool = (Init.trueSettings.get('Force selected opponent') || charId != 1);
