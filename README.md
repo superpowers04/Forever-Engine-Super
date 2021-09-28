@@ -1,3 +1,7 @@
+# Forever-Engine-Super
+A mod to Forever engine that adds support for custom charts and characters
+
+
 # [Forever Engine](https://github.com/Yoshubs/FunkinForever)
 An open-source, modular, optimized, and HOPEFULLY easy to use [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) mod engine!
 ----------------------------------------------
