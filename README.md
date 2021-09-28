@@ -1,6 +1,7 @@
 # Forever-Engine-Super
 A mod to Forever engine that adds support for custom charts and characters
-
+Custom charts and characters are close to [my other mods system](https://github.com/superpowers04/FunkinBattleRoyale-Mod/wiki/Character-JSON) with some missing features like scripting
+Custom charts can be installed by making a folder for the chart in mods/charts, and then putting the json and ogg's in that folder
 
 # [Forever Engine](https://github.com/Yoshubs/FunkinForever)
 An open-source, modular, optimized, and HOPEFULLY easy to use [Friday Night Funkin'](https://www.newgrounds.com/portal/view/770371) mod engine!
